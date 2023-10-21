@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! nice to see you :)</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋! nice to see you :)</h1>
 
 
 <p>Welcome to my page! </br> I'm Danial </b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="16"/> <b>Astana, Kazakhstan</b>. </p>
@@ -47,7 +47,7 @@ I love travelling and meeting open-minded people, and I've called multiple count
 
 ---
 
-##It's not much, but its honest work
+## It's not much, but its honest work
 
 <a href="https://github.com/Dadashvespek/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dadashvespek&theme=radical&layout=compact&langs_count=8&card_width=320&" />
