@@ -47,8 +47,7 @@ I love travelling and meeting open-minded people, and I've called multiple count
 
 ---
 
-<h3>It's not much, but its honest work:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=Dadashvespek" alt="Dadashvespek's GitHub stats">
+##It's not much, but its honest work
 
 <a href="https://github.com/Dadashvespek/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dadashvespek&theme=radical&layout=compact&langs_count=8&card_width=320&" />
