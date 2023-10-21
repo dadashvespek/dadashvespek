@@ -30,7 +30,7 @@ I'm a tech enthusiast who thrives on solving real-world problems. From quickly d
   
 - 🕵️‍♂️ **Data Detective**: Scraped Iran's largest travel agency to build a dataset for [price prediction](https://dadashvespek.github.io/Alibaba.ir's%20pricing%20prediction%20(2).html). Used it as a part of my cover letter for a Business Analyst position at [Alibaba.ir](https://www.alibaba.ir/) – which I secured!
   
-- 🇦🇺 **Australian Job Market Insight**: Analyzed Australian job postings to discover the top [skills recruiters want](https://github.com/dadashvespek/LinkedinAusScraped/blob/main/LinkedScraped.ipynb) in the realm of Data Science.
+- 🇦🇺 **Australian Job Market Insight**: Scraped the entirety of data-science related jobs on LinkedIn to analyzed Australian job postings to discover the top [skills recruiters want](https://github.com/dadashvespek/LinkedinAusScraped/blob/main/LinkedScraped.ipynb) in the realm of Data Science.
 
 ... and a million things in between. I see every line of code is a piece of a puzzle, carefully placed, and patiently waiting to see the big picture complete.
 
