@@ -16,6 +16,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
 </p>
+<p></p>
 <h3>It's not much, but its honest work</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Dadashvespek" alt="Dadashvespek's GitHub stats">
-
+<p></p>
