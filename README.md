@@ -16,6 +16,8 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
 </p>
+---
+
 ## 🚀 A Little About Me
 
 I'm a tech enthusiast who thrives on solving real-world problems. From quickly deploying AI solutions to diving deep into backend systems, I enjoy every bit of it. Here's a snapshot of what I've been up to:
