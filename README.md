@@ -18,15 +18,15 @@
 
 ## 🚀 A Little About Me
 
-I'm a tech enthusiast who thrives on solving real-world problems. From quickly deploying AI solutions to diving deep into backend systems, I enjoy every bit of it. Here's a snapshot of what I've been up to:
+I'm a tech enthusiast who thrives on solving real-world problems. Here's a snapshot of what I've been up to:
 
 - 🤖 **AI Relationship Counselor**: Had a conflict and used AI to mediate! [Check it out](https://weak-gold-tutu.cyclic.app/).
   
 - 🌍 **Solution for Ministry of Finance of Yemen**: Engineered the [back-end of a system](https://www.linkedin.com/posts/activity-7061702508951347200-8g_?utm_source=share&utm_medium=member_desktop) that won the first place in a [hackathon](https://yemenpfmhackathon.com/).
   
-- 🎮 **Gamer's Paradise**: Built a webcam and hand-controlled [Fruit Ninja game](https://github.com/dadashvespek/SliceFrenzy-Webcam-Warrior) using Pygames.
+- 🎮 **Python Game with Movenet**: Built a webcam and hand-controlled [Fruit Ninja game](https://github.com/dadashvespek/SliceFrenzy-Webcam-Warrior) using Pygames.
   
-- 🕵️‍♂️ **Data Detective**: Scraped Iran's largest travel agency to build a dataset for [price prediction](https://dadashvespek.github.io/Alibaba.ir's%20pricing%20prediction%20(2).html). Used it as a part of my cover letter for a Business Analyst position at [Alibaba.ir](https://www.alibaba.ir/) – which I secured!
+- 🕵️‍♂️ **Travel Company Price Analysis**: Scraped Iran's largest travel agency to build a dataset for [price prediction](https://dadashvespek.github.io/Alibaba.ir's%20pricing%20prediction%20(2).html). Used it as a part of my cover letter for a Business Analyst position at [Alibaba.ir](https://www.alibaba.ir/) – which I secured!
   
 - 🇦🇺 **Australian Job Market Insight**: Scraped the entirety of data-science related jobs on LinkedIn to analyzed Australian job postings to discover the top [skills recruiters want](https://github.com/dadashvespek/LinkedinAusScraped/blob/main/LinkedScraped.ipynb) in the realm of Data Science.
 
