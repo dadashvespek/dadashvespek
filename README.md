@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋,  I'm Danial, nice to see you :)</h1>
 
-
-<p>Welcome to my page! </br></b> currently living in <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="16"/> <b>Astana, Kazakhstan</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
