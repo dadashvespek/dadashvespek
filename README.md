@@ -41,7 +41,7 @@ I'm a tech enthusiast who thrives on solving real-world problems. From quickly d
 I love travelling and meeting open-minded people, and I've called multiple countries my home:
 
 <img src="https://cdn-icons-png.flaticon.com/512/630/630680.png" width="15"/> 🇮🇷 Iran |═════════════ 7 years
-<img src="https://cdn-icons-png.flaticon.com/512/630/630680.png" width="15"/> 🇲🇾 Malaysia |════════════════════════════════════ 10 years
+<img src="https://cdn-icons-png.flaticon.com/512/630/630691.png" width="15"/> 🇲🇾 Malaysia |════════════════════════════════════ 10 years
 <img src="https://cdn-icons-png.flaticon.com/512/630/630671.png" width="15"/> 🇨🇾 Cyprus |══════════════════════ 6 years
 <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="15"/> 🇰🇿 Kazakhstan | On the horizon!
 
@@ -50,3 +50,9 @@ I love travelling and meeting open-minded people, and I've called multiple count
 <h3>It's not much, but its honest work:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Dadashvespek" alt="Dadashvespek's GitHub stats">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
