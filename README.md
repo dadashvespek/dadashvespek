@@ -51,7 +51,7 @@ I love travelling and meeting open-minded people, and I've called multiple count
 <img src="https://github-readme-stats.vercel.app/api?username=Dadashvespek" alt="Dadashvespek's GitHub stats">
 
 <a href="https://github.com/Dadashvespek/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dadashvespek" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Dadashvespek&theme=radical" />
 </a>
 <a href="https://github.com/Dadashvespek/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dadashvespek&layout=compact&langs_count=8&card_width=320&theme=radical" />
