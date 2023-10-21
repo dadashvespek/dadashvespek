@@ -40,10 +40,10 @@ I'm a tech enthusiast who thrives on solving real-world problems. From quickly d
 
 I love travelling and meeting open-minded people, and I've called multiple countries my home:
 
-<img src="https://cdn-icons-png.flaticon.com/512/630/630680.png" width="15"/> 🇮🇷 Iran |═════════════ 7 years
-<img src="https://cdn-icons-png.flaticon.com/512/630/630691.png" width="15"/> 🇲🇾 Malaysia |════════════════════════════════════ 10 years
-<img src="https://cdn-icons-png.flaticon.com/512/630/630671.png" width="15"/> 🇨🇾 Cyprus |══════════════════════ 6 years
-<img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="15"/> 🇰🇿 Kazakhstan | On the horizon!
+<img src="https://cdn-icons-png.flaticon.com/512/630/630680.png" width="15"/> Iran |═════════════ 7 years
+<img src="https://cdn-icons-png.flaticon.com/512/630/630691.png" width="15"/> Malaysia |════════════════════════════════════ 10 years
+<img src="https://cdn-icons-png.flaticon.com/512/630/630671.png" width="15"/> Cyprus |══════════════════════ 6 years
+<img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="15"/> Kazakhstan | On the horizon!
 
 ---
 
