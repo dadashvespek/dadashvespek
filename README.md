@@ -1,7 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋,  I'm Danial, nice to see you :)</h1>
 
-![](https://hit.yhype.me/github/profile?user_id=56474459)
-
 <h3>Things I code with</h3>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -55,3 +53,6 @@ I love travelling and meeting open-minded people, and I've called multiple count
 <a href="https://github.com/Dadashvespek/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dadashvespek&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
+
+
+![](https://hit.yhype.me/github/profile?user_id=56474459)
