@@ -22,6 +22,8 @@
 
 I'm a tech enthusiast who thrives on solving real-world problems. Here's a snapshot of what I've been up to:
 
+- 🌐 **AI Interviewer**: A voice-to-voice and text-to-text GPT powered AI interviewer, with built-in code-compiler, and interviewer access to both the code and output of the compiled code, [Demo](https://ai-tutor-eight.vercel.app/).
+
 - 🤖 **AI Relationship Counselor**: Had a conflict and used AI to mediate! [Check it out](https://weak-gold-tutu.cyclic.app/).
   
 - 🌍 **Solution for Ministry of Finance of Yemen**: Engineered the [back-end of a system](https://www.linkedin.com/posts/activity-7061702508951347200-8g_?utm_source=share&utm_medium=member_desktop) that won the first place in a [hackathon](https://yemenpfmhackathon.com/).
