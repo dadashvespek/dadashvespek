@@ -16,6 +16,10 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
 </p>
+## 📌 Current Work
+### Full-Time Python Developer at [42 Robots AI](https://42robots.ai/)
+- Developing AI-powered software for processing large, unstructured documents in the medical field.
+- Contributing to the core product, Hyper Prompts, utilizing Python and machine learning in a performance-based environment.
 
 
 ## 🚀 A Little About Me
