@@ -16,7 +16,9 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   
 </p>
+
 ## 📌 Current Work
+
 ### Full-Time Python Developer at <a href="https://42robots.ai/" target="_blank">42 Robots AI</a>
 
 - Developing AI-powered software for processing large, unstructured documents in the medical field.
