@@ -18,6 +18,7 @@
 </p>
 ## 📌 Current Work
 ### Full-Time Python Developer at <a href="https://42robots.ai/" target="_blank">42 Robots AI</a>
+
 - Developing AI-powered software for processing large, unstructured documents in the medical field.
 - Contributing to the core product, Hyper Prompts, utilizing Python and machine learning in a performance-based environment.
 
