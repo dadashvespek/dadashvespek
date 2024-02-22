@@ -7,7 +7,6 @@
 
 - Developing AI-powered software for processing large, unstructured documents in the medical field.
 - Contributing to the core product, Hyper Prompts, utilizing Python and machine learning in a performance-based environment.
-- Front-end dev for https://hyper-prompts.42robots.ai/
 
 
 
