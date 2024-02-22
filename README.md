@@ -1,6 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey👋,  I'm Danial, nice to see you :)</h1>
 
 ![](https://komarev.com/ghpvc/?username=dadashvespek&color=dc143c)
+## 📌 Current Work
+
+### Full-Time Python Developer
+
+- Developing AI-powered software for processing large, unstructured documents in the medical field.
+- Contributing to the core product, Hyper Prompts, utilizing Python and machine learning in a performance-based environment.
+- Front-end dev for https://hyper-prompts.42robots.ai/
+
+
 
 <h3>Things I code with</h3>
 <p>
