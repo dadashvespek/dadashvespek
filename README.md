@@ -6,7 +6,8 @@
 ### Full-Time Python Developer
 
 - Developing AI-powered software for processing large, unstructured documents in the medical field.
-- Contributing to the core product, Hyper Prompts, utilizing Python and machine learning in a performance-based environment.
+- Contributing to the core product, utilizing Python and machine learning in a performance-based environment.
+- Building ETL pipelines for companies in the healthcare industry
 
 
 
